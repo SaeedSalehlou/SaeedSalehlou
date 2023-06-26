@@ -1,6 +1,8 @@
 ### Hi there 👋
  🌱 I’m currently learning Angular, Javascript, Css
+ 
  🔭 I’m currently working on Algorithm Pouya Company
+ 
 <!--
 **SaeedSalehlou/SaeedSalehlou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
